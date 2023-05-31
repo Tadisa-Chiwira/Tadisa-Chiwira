@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @strm45
-- 👀 I’m interested in app and web development 
-- 🌱 I’m currently learning html, front end coding and ux design
+- 👀 I’m interested in app design and development.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on websites, games🎮 or apps
 - 📫 How to reach me reach me via email (ask)
 
