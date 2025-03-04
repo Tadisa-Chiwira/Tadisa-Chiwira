@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @strm45
-- 👀 I’m interested in app design and game development.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on websites, games🎮 or apps
+- 👀 I’m interested in cybersecurity and game development.
+- 🌱 I’m currently learning godot.
+- 💞️ I’m looking to collaborate on games🎮 
 - 📫 How to reach me reach me via email (ask)
 
 <!---
