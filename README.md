@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @strm45
-- 👀 I’m interested in cybersecurity and game development.
-- 🌱 I’m currently learning godot.
-- 💞️ I’m looking to collaborate on games🎮 
+- 👀 I’m interested in cybersecurity, app development and game development.
+- 🌱 I’m currently learning JavaScript, C, Rust, Go and Swift
+- 💞️ I’m looking to collaborate on games and apps🎮 
 - 📫 How to reach me reach me via email (ask)
 
 <!---
